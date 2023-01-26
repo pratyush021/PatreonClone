@@ -1,10 +1,11 @@
-import Base from "../components/Base";
+import LandingBase from "../components/LandingBase";
+
 
 const Dashboard=()=>{
     return (
-        <Base> 
+        <LandingBase> 
             This is the dashboard 
-        </Base>
+        </LandingBase>
     )
 
 }
